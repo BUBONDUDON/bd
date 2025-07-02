@@ -1,0 +1,30 @@
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\WinFormADO-NET\WinFormRelationManual\bin\Debug\WinFormRelationManual.exe.config
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\WinFormADO-NET\WinFormRelationManual\bin\Debug\WinFormRelationManual.exe
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\WinFormADO-NET\WinFormRelationManual\bin\Debug\WinFormRelationManual.pdb
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\WinFormADO-NET\WinFormRelationManual\obj\Debug\WinFormRelationManual.csproj.AssemblyReference.cache
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\WinFormADO-NET\WinFormRelationManual\obj\Debug\WinFormRelationManual.Form1.resources
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\WinFormADO-NET\WinFormRelationManual\obj\Debug\WinFormRelationManual.FormCommonDictionaryEditor.resources
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\WinFormADO-NET\WinFormRelationManual\obj\Debug\WinFormRelationManual.FormGradeBook.resources
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\WinFormADO-NET\WinFormRelationManual\obj\Debug\WinFormRelationManual.FormSelectorFromDictionary.resources
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\WinFormADO-NET\WinFormRelationManual\obj\Debug\WinFormRelationManual.Properties.Resources.resources
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\WinFormADO-NET\WinFormRelationManual\obj\Debug\WinFormRelationManual.TextFieldSelectorDictionary.resources
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\WinFormADO-NET\WinFormRelationManual\obj\Debug\WinFormRelationManual.csproj.GenerateResource.cache
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\WinFormADO-NET\WinFormRelationManual\obj\Debug\WinFormRelationManual.csproj.CoreCompileInputs.cache
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\WinFormADO-NET\WinFormRelationManual\obj\Debug\WinFormRelationManual.exe
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\WinFormADO-NET\WinFormRelationManual\obj\Debug\WinFormRelationManual.pdb
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\courseWork School\START\WinFormRelationManual\bin\Debug\WinFormRelationManual.exe.config
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\courseWork School\START\WinFormRelationManual\bin\Debug\WinFormRelationManual.exe
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\courseWork School\START\WinFormRelationManual\bin\Debug\WinFormRelationManual.pdb
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\courseWork School\START\WinFormRelationManual\obj\Debug\WinFormRelationManual.csproj.AssemblyReference.cache
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\courseWork School\START\WinFormRelationManual\obj\Debug\WinFormRelationManual.Form1.resources
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\courseWork School\START\WinFormRelationManual\obj\Debug\WinFormRelationManual.FormCommonDictionaryEditor.resources
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\courseWork School\START\WinFormRelationManual\obj\Debug\WinFormRelationManual.FormGradeBook.resources
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\courseWork School\START\WinFormRelationManual\obj\Debug\WinFormRelationManual.FormSelectorFromDictionary.resources
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\courseWork School\START\WinFormRelationManual\obj\Debug\WinFormRelationManual.Properties.Resources.resources
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\courseWork School\START\WinFormRelationManual\obj\Debug\WinFormRelationManual.TextFieldSelectorDictionary.resources
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\courseWork School\START\WinFormRelationManual\obj\Debug\WinFormRelationManual.csproj.GenerateResource.cache
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\courseWork School\START\WinFormRelationManual\obj\Debug\WinFormRelationManual.csproj.CoreCompileInputs.cache
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\courseWork School\START\WinFormRelationManual\obj\Debug\WinFormRelationManual.exe
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\courseWork School\START\WinFormRelationManual\obj\Debug\WinFormRelationManual.pdb
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\courseWork School\START\WinFormRelationManual\obj\Debug\WinFormRelationManual.FormFilterStudentResult.resources
+D:\Midis\2 курс 2 полугодие\С#\CourseWorks\courseWork School\START\WinFormRelationManual\obj\Debug\WinFormRelationManual.exe.config
